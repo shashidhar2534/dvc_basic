@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/shashidhar2534/dvc_basic",
-    author_email="komalashashidhar22@gmail.com",
+    author_email="komalashashidhar22@gmail.comcond",
     packages=["src"],
     python_requires=">=3.7",
     install_requires=[
